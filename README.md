@@ -34,7 +34,7 @@ The servers form a **virtual ring**. Each server is responsible for a slice of t
 
 ---
 
-## ✅ Key Highlights (What Recruiters Care About)
+## ✅ Key Highlights
 
 | Concept | What's Implemented |
 |---|---|
