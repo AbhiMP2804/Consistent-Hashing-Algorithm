@@ -199,17 +199,17 @@ localhost 3768  ← Bootstrap server address
 | Name | University |
 |---|---|
 | Abhishek Patwardhan | University of Georgia |
-| \<Partner Name\> | University of Georgia |
+<!-- | \<Partner Name\> | University of Georgia | -->
 
 ---
-
+<!-- 
 ## ✅ Academic Integrity
 
 > *This project was done in its entirety by **Abhishek Patwardhan** and **\<Partner Name\>**.
-> We hereby state that we have not received unauthorized help of any form.*
+> We hereby state that we have not received unauthorized help of any form.* -->
 
 ---
-
+<!-- 
 <p align="center">
   Built with ☕ Java &nbsp;•&nbsp; CSCI 4780/6780 Distributed Computing Systems &nbsp;•&nbsp; University of Georgia
-</p>
+</p> -->
