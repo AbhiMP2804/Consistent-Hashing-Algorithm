@@ -1,4 +1,4 @@
-package nameServer;
+// package nameServer;
 
 import java.io.*;
 import java.net.*;
